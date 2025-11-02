@@ -1,0 +1,60 @@
+header {
+  text-align: center;
+  margin-left: 5%;
+  margin-right:5%;
+}
+main {
+  padding: 50px;
+}
+ul {
+
+  margin-left:40%;
+  
+}
+
+section {
+  width:100%
+}
+#first-heading {
+  text-align: center;
+}
+
+
+#second-heading {
+  text-align: center;
+  
+}
+#third-heading {
+  text-align: center;
+
+}
+body {
+
+  width:60vw;
+  background-color: #FFFAF0;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  min-height: calc(100vh - 100px)
+}
+
+hr {
+  width: 90%;
+
+}
+
+#rule {
+  margin-bottom: -5%
+}
+footer {
+  text-align: center;
+  margin-top: 6%;
+
+}
+img {
+  width: 30%;
+  
+}
